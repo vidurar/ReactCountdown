@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "karma start",
-    "script": "node server.js"
+    "script": "node server.js",
+    "start": "node server.js"
   },
   "author": "Vid",
   "license": "MIT",
@@ -41,5 +42,13 @@
     "sass-loader": "^6.0.5",
     "webpack": "^1.15.0",
     "webpack-dev-server": "^2.4.5"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vidurar/ReactCountdown.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vidurar/ReactCountdown/issues"
+  },
+  "homepage": "https://github.com/vidurar/ReactCountdown#readme"
 }

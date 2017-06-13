@@ -7,8 +7,6 @@ var Countdown = require('Countdown');
 
 
 //Load Foudnation
-
-require('style!css!foundation-sites/dist/css/foundation.min.css');
 $(document).foundation();
 
 require("style!css!sass!applicationStyles");
